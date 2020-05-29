@@ -23148,7 +23148,7 @@ N:function(a){return new S.nt(new X.mV(null),"Flutter Demo",X.TO(null,C.kK,X.a_4
 X.mV.prototype={
 aN:function(){return new X.yS(C.p)}}
 X.yS.prototype={
-N:function(a){var t=null,s="\u062a\u0642\u062f\u0645 \u0628\u0637\u0644\u0628\u0643 \u0627\u0644\u0623\u0646 \u0644\u0644\u0645\u0648\u0627\u0626\u0645\u0629 \u0642\u0628\u0644 \u062a\u0627\u0631\u064a\u062e \u0661\u0664\u0664\u0663/\u0660\u0661/\u0660\u0661 \u0647\u062c\u0631\u064a",r=M.PV(t,U.SJ("assets/img/Background.png",C.mB),t,t,t,1/0,t,t,1/0),q=u.G,p=H.b([U.SJ("assets/img/logo.png",t),new T.iB(t,20,t,t),L.TL(s,A.kJ(t,t,C.j,t,t,t,t,t,"Kufi",t,t,25,t,t,t,t,!0,t,t,t,t,t,t)),L.TL(s,A.kJ(t,t,C.j,t,t,t,t,t,"Kufi",t,t,25,t,t,t,t,!0,t,t,t,t,t,t))],q)
+N:function(a){var t=null,s="\u062a\u0642\u062f\u0645 \u0628\u0637\u0644\u0628\u0643 \u0627\u0644\u0623\u0646 \u0644\u0644\u0645\u0648\u0627\u0626\u0645\u0629 \u0642\u0628\u0644 \u062a\u0627\u0631\u064a\u062e \u0661\u0664\u0664\u0663/\u0660\u0661/\u0660\u0661 \u0647\u062c\u0631\u064a",r=M.PV(t,U.SJ("img/bg.jpg",C.mB),t,t,t,1/0,t,t,1/0),q=u.G,p=H.b([U.SJ("assets/img/logo.png",t),new T.iB(t,20,t,t),L.TL(s,A.kJ(t,t,C.j,t,t,t,t,t,"Kufi",t,t,25,t,t,t,t,!0,t,t,t,t,t,t)),L.TL(s,A.kJ(t,t,C.j,t,t,t,t,t,"Kufi",t,t,25,t,t,t,t,!0,t,t,t,t,t,t))],q)
 return new M.or(T.wP(C.hf,H.b([r,new T.jf(C.bn,t,t,new E.wy(!0,new T.rS(C.E,C.nR,C.nS,C.n2,t,C.ps,t,p,t),t),t)],q),C.h6),new P.H(4278524212),t)}}
 Y.tX.prototype={
 gl:function(a){return this.c},
