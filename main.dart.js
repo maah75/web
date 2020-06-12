@@ -24893,7 +24893,7 @@ P:function(a){var t=null,s=this.e
 return T.zn(C.hP,H.b([new T.iL(new M.PO(this),t),new T.eF(C.n4,t,t,new T.eU(C.un,T.yL(new H.a8(s,new M.PP(this),H.ac(s).j("a8<1,kA>")).bd(0),C.ca,C.oX,C.bM),t),t)],u.G),C.hx)}}
 M.PO.prototype={
 $1:function(a){var t,s,r=F.cr(a,!1).a.b,q=this.a,p=q.d
-p=F.cr(a,!1).a.a>600?B.Xj(!0,p,!0,r,new M.PL(q),1):B.Xj(!0,p,!0,null,new M.PM(q),1)
+p=F.cr(a,!1).a.a>1000?B.Xj(!0,p,!0,r,new M.PL(q),1):B.Xj(!0,p,!0,null,new M.PM(q),1)
 q=q.e
 q=new H.a8(q,new M.PN(r),H.ac(q).j("a8<1,kA>")).bd(0)
 t=q.length
@@ -24964,7 +24964,7 @@ a9=b2?b0.cx:b0.dx
 return E.YZ(T.v1(H.b([t,new T.eF(C.a2,b1,b1,new T.eU(s,M.dx(b1,T.v1(H.b([r,q,p,o,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,new O.lK(b1,a4,b1,b1,C.qG,b1),a5,a6,a7,a9,O.c4("* \u0645\u0648\u0642\u0639 \u0627\u0644\u0645\u0643\u062a\u0628 : \u0627\u0644\u0647\u0641\u0648\u0641 \u062e\u0644\u0641 \u0645\u0628\u0646\u0649 \u0634\u0631\u0643\u0629 \u0627\u0644\u0643\u0647\u0631\u0628\u0627\u0621 ( \u0633\u0643\u064a\u0643\u0648 )",b2?n:b0.z,C.k)],a8),C.c9,C.jb),b1,new S.aq(0,600,0,1/0),b1,b1,b1,b1,b1),b1),b1),new T.c5(b1,30,b1,b1)],a8),C.ca,C.bM))}}
 X.QO.prototype={
 $2:function(a,b){var t=null,s=this.a,r=this.b,q=u.G
-if(b.b<600)return E.YZ(T.v1(H.b([new T.eF(C.n5,t,t,U.XY("assets/img/logo-1.png",50),t),new M.kw(t),new T.c5(t,15,t,t),s.vL(r)],q),C.ca,C.bM))
+if(b.b<1000)return E.YZ(T.v1(H.b([new T.eF(C.n5,t,t,U.XY("assets/img/logo-1.png",50),t),new M.kw(t),new T.c5(t,15,t,t),s.vL(r)],q),C.ca,C.bM))
 else return T.yL(H.b([new T.iT(2,C.cd,T.v1(H.b([new T.iT(10,C.cd,new M.kw(t),t),new T.iT(1,C.cd,M.dx(t,t,t,t,t,t,t,t,t),t)],q),C.ca,C.bM),t),new T.iT(1,C.cd,s.vL(r),t)],q),C.i_,C.df,C.bM)}}
 X.QM.prototype={
 $0:function(){X.n_("https://api.whatsapp.com/send?l=ar&phone=966597336000")},
